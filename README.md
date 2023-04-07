@@ -10,4 +10,4 @@
 
 
 ## Screenshots
-![ALT](/ScreenshotScheduler.png)
+![ALT](/SS-Scheduler.png)
